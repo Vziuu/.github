@@ -1,12 +1,5 @@
-## Hi there 👋
+# Hi there 👋
+<a href="https://nethermc.pl">
+  <img src="https://cdn.discordapp.com/attachments/755488771306291211/1204888636814921759/Bez_nazwy-1.png?ex=65d65efc&is=65c3e9fc&hm=73b142ab875923802437c381530ce3593486df026af340aefde631afd8d87037&">
+</a>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
